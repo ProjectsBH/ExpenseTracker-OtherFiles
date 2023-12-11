@@ -1,5 +1,5 @@
 Expense Tracker Project
-مثال بسيط مكون من جزئين :-
+مثال بسيط مكون من جزئين two Tiers :-
 1- ==== back end ====
 C# & ASP.Net
 PHP
